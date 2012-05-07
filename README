@@ -1,8 +1,7 @@
 ---- Source code for FreshConnectionBrand.com ---- (Site should be live by May 15th)
 
-- All code written in my free time for the Fresh Connection Brand.
-- No compensation was recieved for my work on this site. 
 - The site uses the Code Igniter MVC framework along with a number of other open source tools.
+- No compensation was recieved for my work on this site. 
 - Feel free to use anything you find here. Site was created in my spare time while attending UC San Diego for education/experience purposes, so excuse the messy code. 
 
 Views: application/views/*
