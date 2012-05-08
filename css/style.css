@@ -1,0 +1,10 @@
+
+.theme-default #slider {
+    margin:100px auto 0 auto;
+    width:1100px; /* Make sure your images are the same size */
+    height:450px; /* Make sure your images are the same size */
+}
+.theme-pascal.slider-wrapper,
+.theme-orman.slider-wrapper {
+    margin-top:150px;
+}
